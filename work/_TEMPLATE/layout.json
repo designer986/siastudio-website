@@ -1,0 +1,46 @@
+{
+  "_설명": "블록이 위에서 아래로 여백 없이 이어집니다. 파일은 같은 폴더에 넣고 이름만 적으세요. 필요 없는 블록은 지우고, 같은 종류를 여러 번 써도 됩니다.",
+  "blocks": [
+    {
+      "type": "image",
+      "file": "01.jpg",
+      "alt": "키 비주얼"
+    },
+    {
+      "type": "text",
+      "label": "Brand Identity",
+      "title": "프로젝트 한 줄 소개",
+      "body": "배경과 과제, 디자인 방향을 2–4문장으로 적어주세요."
+    },
+    {
+      "type": "image",
+      "file": "02.jpg"
+    },
+    {
+      "type": "pair",
+      "files": [
+        "03.jpg",
+        "04.jpg"
+      ]
+    },
+    {
+      "type": "text",
+      "theme": "dark",
+      "label": "Concept",
+      "title": "컨셉 키워드",
+      "body": "로고·컬러·타이포 설명"
+    },
+    {
+      "type": "image",
+      "file": "05.jpg"
+    },
+    {
+      "type": "video",
+      "file": "film.mp4"
+    },
+    {
+      "type": "image",
+      "file": "06.jpg"
+    }
+  ]
+}

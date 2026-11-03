@@ -1,1 +1,3482 @@
-{}
+{
+  "w01": {
+    "cover": "work/w01_brand_hersteller-bi/01.jpg",
+    "images": [
+      {
+        "src": "work/w01_brand_hersteller-bi/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w01_brand_hersteller-bi/03a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w01_brand_hersteller-bi/03b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w01_brand_hersteller-bi/04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w01_brand_hersteller-bi/06a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w01_brand_hersteller-bi/06b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w01_brand_hersteller-bi/07.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w01_brand_hersteller-bi/08.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w01_brand_hersteller-bi/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w01_brand_hersteller-bi/03a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w01_brand_hersteller-bi/03b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w01_brand_hersteller-bi/04.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w01_brand_hersteller-bi/06a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w01_brand_hersteller-bi/06b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w01_brand_hersteller-bi/07.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w01_brand_hersteller-bi/08.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w02": {
+    "cover": "work/w02_brand_agia-edu-ci/01.png",
+    "images": [
+      {
+        "src": "work/w02_brand_agia-edu-ci/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w02_brand_agia-edu-ci/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w02_brand_agia-edu-ci/03.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w02_brand_agia-edu-ci/01.png",
+        "alt": "AGIA EDU 명함 목업"
+      },
+      {
+        "type": "image",
+        "src": "work/w02_brand_agia-edu-ci/02.png",
+        "alt": "AGIA EDU 로고 가이드"
+      },
+      {
+        "type": "image",
+        "src": "work/w02_brand_agia-edu-ci/03.png",
+        "alt": "AGIA EDU 명함 스택 목업"
+      }
+    ]
+  },
+  "w03": {
+    "cover": "work/w03_brand_lipleasure-bi/cover.png",
+    "images": [
+      {
+        "src": "work/w03_brand_lipleasure-bi/01.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w03_brand_lipleasure-bi/cover.png",
+        "alt": "LIPLEASURE"
+      },
+      {
+        "type": "image",
+        "src": "work/w03_brand_lipleasure-bi/01.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w04": {
+    "cover": "work/w04_brand_tsome-bi/cover.png",
+    "images": [
+      {
+        "src": "work/w04_brand_tsome-bi/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w04_brand_tsome-bi/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w04_brand_tsome-bi/03.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w04_brand_tsome-bi/cover.png",
+        "alt": "TSOME"
+      },
+      {
+        "type": "image",
+        "src": "work/w04_brand_tsome-bi/01.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w04_brand_tsome-bi/02.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w04_brand_tsome-bi/03.png",
+        "alt": ""
+      }
+    ],
+    "coverPos": "25% 50%",
+    "bg": "#ffffff"
+  },
+  "w05": {
+    "cover": "work/w05_brand_simbuildo-ci/11.jpg",
+    "video": "work/w05_brand_simbuildo-ci/12.mp4",
+    "images": [
+      {
+        "src": "work/w05_brand_simbuildo-ci/02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w05_brand_simbuildo-ci/08a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w05_brand_simbuildo-ci/08b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w05_brand_simbuildo-ci/11.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w05_brand_simbuildo-ci/11.jpg",
+        "alt": "심부일도 패키지 키 비주얼"
+      },
+      {
+        "type": "text",
+        "label": "Brand Identity",
+        "title": "심부일도 CI · BX 가이드",
+        "body": "고급 건강약재 탕약 브랜드 심부일도의 로고, 컬러, 타이포그래피, 패턴, 어플리케이션까지\n브랜드를 일관되게 운영하기 위한 사용 규정을 설계했습니다."
+      },
+      {
+        "type": "video",
+        "src": "work/w05_brand_simbuildo-ci/12.mp4"
+      },
+      {
+        "type": "text",
+        "theme": "dark",
+        "label": "BI Usage Guide",
+        "title": "브랜드 사용 규정",
+        "body": "로고 클리어 스페이스와 최소 사이즈, 배경별 사용, 컬러 시스템과 비율,\n타이포 위계, 패키지 로고 비율, 레이아웃 그리드, 패턴 규칙, 톤 & 무드, 오용 사례."
+      },
+      {
+        "type": "flip",
+        "src": "work/w05_brand_simbuildo-ci/brand-guide.pdf"
+      },
+      {
+        "type": "pdf",
+        "src": "work/w05_brand_simbuildo-ci/brand-guide.pdf"
+      },
+      {
+        "type": "image",
+        "src": "work/w05_brand_simbuildo-ci/02.jpg",
+        "alt": "심부일도 브랜드 무드 — 숲"
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w05_brand_simbuildo-ci/08a.jpg",
+            "alt": "진액"
+          },
+          {
+            "src": "work/w05_brand_simbuildo-ci/08b.jpg",
+            "alt": "손"
+          }
+        ]
+      }
+    ],
+    "pdf": "work/w05_brand_simbuildo-ci/brand-guide.pdf"
+  },
+  "w06": {
+    "cover": "work/w06_brand_alct-bi/01.jpg",
+    "images": [
+      {
+        "src": "work/w06_brand_alct-bi/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w06_brand_alct-bi/02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w06_brand_alct-bi/03.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w06_brand_alct-bi/01.jpg",
+        "alt": "ALCT 명함 목업"
+      },
+      {
+        "type": "image",
+        "src": "work/w06_brand_alct-bi/02.jpg",
+        "alt": "ALCT 명함 디자인 가이드"
+      },
+      {
+        "type": "image",
+        "src": "work/w06_brand_alct-bi/03.jpg",
+        "alt": "ALCT 명함 스택 목업"
+      }
+    ]
+  },
+  "w07": {
+    "cover": "work/w07_brand_stand-coffee-bi/01.jpg",
+    "images": [
+      {
+        "src": "work/w07_brand_stand-coffee-bi/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w07_brand_stand-coffee-bi/02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w07_brand_stand-coffee-bi/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w07_brand_stand-coffee-bi/04a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w07_brand_stand-coffee-bi/04b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w07_brand_stand-coffee-bi/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w07_brand_stand-coffee-bi/06.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w07_brand_stand-coffee-bi/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w07_brand_stand-coffee-bi/02.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w07_brand_stand-coffee-bi/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w07_brand_stand-coffee-bi/04a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w07_brand_stand-coffee-bi/04b.jpg",
+            "alt": "",
+            "blur": [
+              [
+                35,
+                36,
+                20,
+                8.5
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w07_brand_stand-coffee-bi/05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w07_brand_stand-coffee-bi/06.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w08": {
+    "cover": "work/w08_brand_flow-ci/cover.png",
+    "images": [
+      {
+        "src": "work/w08_brand_flow-ci/02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w08_brand_flow-ci/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w08_brand_flow-ci/04a.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w08_brand_flow-ci/cover.png",
+        "alt": "FLOW"
+      },
+      {
+        "type": "image",
+        "src": "work/w08_brand_flow-ci/02.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w08_brand_flow-ci/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w08_brand_flow-ci/04a.png",
+        "alt": ""
+      }
+    ]
+  },
+  "w09": {
+    "cover": "work/w09_brand_tutu-bear-bi/cover.png",
+    "images": [
+      {
+        "src": "work/w09_brand_tutu-bear-bi/02.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w09_brand_tutu-bear-bi/cover.png",
+        "alt": "TUTU BEAR"
+      },
+      {
+        "type": "image",
+        "src": "work/w09_brand_tutu-bear-bi/02.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w10": {
+    "cover": "work/w10_brand_grico-bi/cover.png",
+    "images": [
+      {
+        "src": "work/w10_brand_grico-bi/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w10_brand_grico-bi/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w10_brand_grico-bi/03.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w10_brand_grico-bi/cover.png",
+        "alt": "GRICO"
+      },
+      {
+        "type": "image",
+        "src": "work/w10_brand_grico-bi/01.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w10_brand_grico-bi/02.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w10_brand_grico-bi/03.png",
+        "alt": ""
+      }
+    ],
+    "coverPos": "30% 50%"
+  },
+  "w11": {
+    "cover": "work/w11_package_ildo-hwangjin/01.png",
+    "images": [
+      {
+        "src": "work/w11_package_ildo-hwangjin/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w11_package_ildo-hwangjin/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w11_package_ildo-hwangjin/03a.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w11_package_ildo-hwangjin/03b.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w11_package_ildo-hwangjin/04.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w11_package_ildo-hwangjin/05.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w11_package_ildo-hwangjin/06.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w11_package_ildo-hwangjin/07.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w11_package_ildo-hwangjin/01.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w11_package_ildo-hwangjin/02.png",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w11_package_ildo-hwangjin/03a.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w11_package_ildo-hwangjin/03b.png",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w11_package_ildo-hwangjin/04.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w11_package_ildo-hwangjin/05.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w11_package_ildo-hwangjin/06.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w11_package_ildo-hwangjin/07.png",
+        "alt": ""
+      }
+    ]
+  },
+  "w12": {
+    "cover": "work/w12_package_eyecrown-makeup/main.jpg",
+    "images": [
+      {
+        "src": "work/w12_package_eyecrown-makeup/main.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w12_package_eyecrown-makeup/01.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w12_package_eyecrown-makeup/main.jpg",
+        "alt": "EYECROWN"
+      },
+      {
+        "type": "image",
+        "src": "work/w12_package_eyecrown-makeup/01.png",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center 40%"
+  },
+  "w13": {
+    "cover": "work/w13_package_littledrops-ampoule/03a.jpg",
+    "images": [
+      {
+        "src": "work/w13_package_littledrops-ampoule/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w13_package_littledrops-ampoule/03a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w13_package_littledrops-ampoule/03b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w13_package_littledrops-ampoule/05.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w13_package_littledrops-ampoule/02.png",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w13_package_littledrops-ampoule/03a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w13_package_littledrops-ampoule/03b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w13_package_littledrops-ampoule/05.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w14": {
+    "cover": "work/w14_package_littledrops-calming/01.jpg",
+    "images": [
+      {
+        "src": "work/w14_package_littledrops-calming/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w14_package_littledrops-calming/03a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w14_package_littledrops-calming/03b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w14_package_littledrops-calming/04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w14_package_littledrops-calming/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w14_package_littledrops-calming/06.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w14_package_littledrops-calming/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w14_package_littledrops-calming/03a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w14_package_littledrops-calming/03b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w14_package_littledrops-calming/04.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w14_package_littledrops-calming/05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w14_package_littledrops-calming/06.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w15": {
+    "cover": "work/w15_package_nearby-body/01.jpg",
+    "images": [
+      {
+        "src": "work/w15_package_nearby-body/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w15_package_nearby-body/02a.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w15_package_nearby-body/02b.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w15_package_nearby-body/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w15_package_nearby-body/04a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w15_package_nearby-body/04b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w15_package_nearby-body/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w15_package_nearby-body/06.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w15_package_nearby-body/07.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w15_package_nearby-body/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w15_package_nearby-body/02a.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w15_package_nearby-body/02b.png",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w15_package_nearby-body/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w15_package_nearby-body/04a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w15_package_nearby-body/04b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w15_package_nearby-body/05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w15_package_nearby-body/06.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w15_package_nearby-body/07.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w16": {
+    "cover": "work/w16_package_nearby-hand-balm/main.jpg",
+    "images": [
+      {
+        "src": "work/w16_package_nearby-hand-balm/main.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h06.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h07.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h08.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h10.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h11.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h12.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h13.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h14.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h15.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h16.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h17.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/h19.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w16_package_nearby-hand-balm/02.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w16_package_nearby-hand-balm/main.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w16_package_nearby-hand-balm/h05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "label": "Before Sunrise",
+        "items": [
+          {
+            "src": "work/w16_package_nearby-hand-balm/h06.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w16_package_nearby-hand-balm/h07.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w16_package_nearby-hand-balm/h08.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 2,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "label": "About Time",
+        "items": [
+          {
+            "src": "work/w16_package_nearby-hand-balm/h10.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w16_package_nearby-hand-balm/h11.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w16_package_nearby-hand-balm/h12.jpg",
+        "alt": ""
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "3/2",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w16_package_nearby-hand-balm/h13.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w16_package_nearby-hand-balm/h14.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w16_package_nearby-hand-balm/h15.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 2,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w16_package_nearby-hand-balm/h16.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w16_package_nearby-hand-balm/h17.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w16_package_nearby-hand-balm/h19.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w16_package_nearby-hand-balm/02.jpg",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center 55%"
+  },
+  "w17": {
+    "cover": "work/w17_package_nearby-lip-balm/01.jpg",
+    "images": [
+      {
+        "src": "work/w17_package_nearby-lip-balm/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w17_package_nearby-lip-balm/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w17_package_nearby-lip-balm/03a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w17_package_nearby-lip-balm/03b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w17_package_nearby-lip-balm/04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w17_package_nearby-lip-balm/05.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w17_package_nearby-lip-balm/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w17_package_nearby-lip-balm/02.png",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w17_package_nearby-lip-balm/03a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w17_package_nearby-lip-balm/03b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w17_package_nearby-lip-balm/04.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w17_package_nearby-lip-balm/05.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w18": {
+    "cover": "work/w18_package_nearby-hand-neck-serum/01.jpg",
+    "images": [
+      {
+        "src": "work/w18_package_nearby-hand-neck-serum/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w18_package_nearby-hand-neck-serum/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w18_package_nearby-hand-neck-serum/03a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w18_package_nearby-hand-neck-serum/03b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w18_package_nearby-hand-neck-serum/04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w18_package_nearby-hand-neck-serum/05.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w18_package_nearby-hand-neck-serum/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w18_package_nearby-hand-neck-serum/02.png",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w18_package_nearby-hand-neck-serum/03a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w18_package_nearby-hand-neck-serum/03b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w18_package_nearby-hand-neck-serum/04.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w18_package_nearby-hand-neck-serum/05.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w19": {
+    "cover": "work/w19_package_nearby-scented-balm/01.jpg",
+    "images": [
+      {
+        "src": "work/w19_package_nearby-scented-balm/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w19_package_nearby-scented-balm/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w19_package_nearby-scented-balm/03.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w19_package_nearby-scented-balm/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w19_package_nearby-scented-balm/02.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w19_package_nearby-scented-balm/03.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w20": {
+    "cover": "work/w20_package_wonder-veggie-bb/cover.jpg",
+    "images": [
+      {
+        "src": "work/w20_package_wonder-veggie-bb/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w20_package_wonder-veggie-bb/02a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w20_package_wonder-veggie-bb/02b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w20_package_wonder-veggie-bb/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w20_package_wonder-veggie-bb/04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w20_package_wonder-veggie-bb/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w20_package_wonder-veggie-bb/06.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w20_package_wonder-veggie-bb/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w20_package_wonder-veggie-bb/02a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w20_package_wonder-veggie-bb/02b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w20_package_wonder-veggie-bb/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w20_package_wonder-veggie-bb/04.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w20_package_wonder-veggie-bb/05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w20_package_wonder-veggie-bb/06.jpg",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center 100%"
+  },
+  "w21": {
+    "cover": "work/w21_package_wonder-veggie-essence/01.jpg",
+    "images": [
+      {
+        "src": "work/w21_package_wonder-veggie-essence/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w21_package_wonder-veggie-essence/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w21_package_wonder-veggie-essence/03a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w21_package_wonder-veggie-essence/03b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w21_package_wonder-veggie-essence/04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w21_package_wonder-veggie-essence/05.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w21_package_wonder-veggie-essence/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w21_package_wonder-veggie-essence/02.png",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w21_package_wonder-veggie-essence/03a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w21_package_wonder-veggie-essence/03b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w21_package_wonder-veggie-essence/04.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w21_package_wonder-veggie-essence/05.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w22": {
+    "cover": "work/w22_package_wonder-veggie-gel-cream/main.jpg",
+    "images": [
+      {
+        "src": "work/w22_package_wonder-veggie-gel-cream/main.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w22_package_wonder-veggie-gel-cream/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w22_package_wonder-veggie-gel-cream/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w22_package_wonder-veggie-gel-cream/04a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w22_package_wonder-veggie-gel-cream/04b.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w22_package_wonder-veggie-gel-cream/main.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w22_package_wonder-veggie-gel-cream/02.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w22_package_wonder-veggie-gel-cream/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w22_package_wonder-veggie-gel-cream/04a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w22_package_wonder-veggie-gel-cream/04b.jpg",
+            "alt": ""
+          }
+        ]
+      }
+    ],
+    "coverPos": "center 50%"
+  },
+  "w23": {
+    "cover": "work/w23_package_wonder-veggie-sun/01.jpg",
+    "images": [
+      {
+        "src": "work/w23_package_wonder-veggie-sun/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w23_package_wonder-veggie-sun/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w23_package_wonder-veggie-sun/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w23_package_wonder-veggie-sun/04a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w23_package_wonder-veggie-sun/04b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w23_package_wonder-veggie-sun/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w23_package_wonder-veggie-sun/06.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w23_package_wonder-veggie-sun/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w23_package_wonder-veggie-sun/06.jpg",
+        "alt": "원더베지 선크림"
+      },
+      {
+        "type": "image",
+        "src": "work/w23_package_wonder-veggie-sun/02.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w23_package_wonder-veggie-sun/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w23_package_wonder-veggie-sun/04a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w23_package_wonder-veggie-sun/04b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w23_package_wonder-veggie-sun/05.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w24": {
+    "cover": "work/w24_package_lipleasure-lip/main.png",
+    "images": [
+      {
+        "src": "work/w24_package_lipleasure-lip/main.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w24_package_lipleasure-lip/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w24_package_lipleasure-lip/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w24_package_lipleasure-lip/03.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w24_package_lipleasure-lip/main.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w24_package_lipleasure-lip/01.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w24_package_lipleasure-lip/02.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w24_package_lipleasure-lip/03.png",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center 50%"
+  },
+  "w25": {
+    "cover": "work/w25_package_meiroad-makeup/main.jpg",
+    "images": [
+      {
+        "src": "work/w25_package_meiroad-makeup/main.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w25_package_meiroad-makeup/01.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w25_package_meiroad-makeup/main.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w25_package_meiroad-makeup/01.png",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center 50%"
+  },
+  "w26": {
+    "cover": "work/w26_package_orgene-sun-cream/t01.jpg",
+    "bg": "#ffffff",
+    "images": [
+      {
+        "src": "work/w26_package_orgene-sun-cream/t01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w26_package_orgene-sun-cream/c01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w26_package_orgene-sun-cream/c02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w26_package_orgene-sun-cream/c03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w26_package_orgene-sun-cream/c04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w26_package_orgene-sun-cream/c05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w26_package_orgene-sun-cream/c06.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w26_package_orgene-sun-cream/t02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w26_package_orgene-sun-cream/t03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w26_package_orgene-sun-cream/t04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w26_package_orgene-sun-cream/t05.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w26_package_orgene-sun-cream/t01.jpg",
+        "alt": "ORGENE PDRN 선크림 텍스처"
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "label": "Tube — Front · Side · Back",
+        "items": [
+          {
+            "src": "work/w26_package_orgene-sun-cream/c01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w26_package_orgene-sun-cream/c02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w26_package_orgene-sun-cream/c03.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "label": "Carton — Front · Side · Back",
+        "items": [
+          {
+            "src": "work/w26_package_orgene-sun-cream/c04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w26_package_orgene-sun-cream/c05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w26_package_orgene-sun-cream/c06.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w26_package_orgene-sun-cream/t02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w26_package_orgene-sun-cream/t03.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w26_package_orgene-sun-cream/t04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w26_package_orgene-sun-cream/t05.jpg",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  "w27": {
+    "cover": "work/w27_package_tsome-makeup/main.jpg",
+    "images": [
+      {
+        "src": "work/w27_package_tsome-makeup/main.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w27_package_tsome-makeup/01.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w27_package_tsome-makeup/main.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w27_package_tsome-makeup/01.png",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center 50%"
+  },
+  "w28": {
+    "cover": "work/w28_web_cla-laundry/02.gif",
+    "images": [
+      {
+        "src": "work/w28_web_cla-laundry/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w28_web_cla-laundry/02.gif",
+        "alt": ""
+      },
+      {
+        "src": "work/w28_web_cla-laundry/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w28_web_cla-laundry/04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w28_web_cla-laundry/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w28_web_cla-laundry/06.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w28_web_cla-laundry/07.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w28_web_cla-laundry/08.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w28_web_cla-laundry/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w28_web_cla-laundry/02.gif",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w28_web_cla-laundry/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w28_web_cla-laundry/04.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w28_web_cla-laundry/05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w28_web_cla-laundry/06.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w28_web_cla-laundry/07.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w28_web_cla-laundry/08.jpg",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center 50%"
+  },
+  "w29": {
+    "cover": "work/w29_web_dbaum/01.jpg",
+    "images": [
+      {
+        "src": "work/w29_web_dbaum/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w29_web_dbaum/02.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "video",
+        "src": "work/w29_web_dbaum/01.mp4"
+      },
+      {
+        "type": "image",
+        "src": "work/w29_web_dbaum/02.jpg",
+        "alt": ""
+      }
+    ],
+    "site": "https://dbaum.kr/",
+    "video": "work/w29_web_dbaum/01.mp4"
+  },
+  "w30": {
+    "cover": "work/w30_web_eyecrown/02.png",
+    "images": [
+      {
+        "src": "work/w30_web_eyecrown/02.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w30_web_eyecrown/02.png",
+        "alt": ""
+      }
+    ]
+  },
+  "w31": {
+    "cover": "work/w31_web_hersteller/02.png",
+    "images": [
+      {
+        "src": "work/w31_web_hersteller/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w31_web_hersteller/02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w31_web_hersteller/03.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w31_web_hersteller/04.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w31_web_hersteller/05.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w31_web_hersteller/06.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w31_web_hersteller/02.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w31_web_hersteller/03.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w31_web_hersteller/04.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w31_web_hersteller/05.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w31_web_hersteller/06.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w31_web_hersteller/01.png",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center top"
+  },
+  "w32": {
+    "cover": "work/w32_web_hyggle/01.jpg",
+    "images": [
+      {
+        "src": "work/w32_web_hyggle/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w32_web_hyggle/02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w32_web_hyggle/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w32_web_hyggle/04.gif",
+        "alt": ""
+      },
+      {
+        "src": "work/w32_web_hyggle/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w32_web_hyggle/06.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w32_web_hyggle/07.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w32_web_hyggle/08.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w32_web_hyggle/09.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w32_web_hyggle/10.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w32_web_hyggle/11.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/02.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/04.gif",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/06.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/07.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/08.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/09.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/10.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w32_web_hyggle/11.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w33": {
+    "cover": "work/w33_web_logbe/01.png",
+    "images": [
+      {
+        "src": "work/w33_web_logbe/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w33_web_logbe/02.gif",
+        "alt": ""
+      },
+      {
+        "src": "work/w33_web_logbe/03.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w33_web_logbe/04.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w33_web_logbe/05.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w33_web_logbe/06.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w33_web_logbe/07.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w33_web_logbe/01.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w33_web_logbe/02.gif",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w33_web_logbe/03.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w33_web_logbe/04.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w33_web_logbe/05.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w33_web_logbe/06.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w33_web_logbe/07.png",
+        "alt": ""
+      }
+    ]
+  },
+  "w34": {
+    "cover": "work/w34_web_orgene-sun/cover.jpg",
+    "images": [
+      {
+        "src": "work/w34_web_orgene-sun/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w34_web_orgene-sun/02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w34_web_orgene-sun/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w34_web_orgene-sun/04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w34_web_orgene-sun/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w34_web_orgene-sun/06.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w34_web_orgene-sun/07.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w34_web_orgene-sun/08.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w34_web_orgene-sun/09.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w34_web_orgene-sun/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w34_web_orgene-sun/02.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w34_web_orgene-sun/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w34_web_orgene-sun/04.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w34_web_orgene-sun/05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w34_web_orgene-sun/06.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w34_web_orgene-sun/07.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w34_web_orgene-sun/08.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w34_web_orgene-sun/09.jpg",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center 40%"
+  },
+  "w35": {
+    "cover": "work/w35_web_orgene/cover-laptop.jpg",
+    "coverPos": "60% 50%",
+    "video": "work/w35_web_orgene/v1.mp4",
+    "site": "https://orgenecosmetics.kr/",
+    "images": [
+      {
+        "src": "work/w35_web_orgene/m1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w35_web_orgene/main.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w35_web_orgene/story.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w35_web_orgene/m1.jpg",
+        "alt": ""
+      },
+      {
+        "type": "text",
+        "label": "Web · Cafe24 Custom Mall",
+        "title": "ORGENE 자사몰 구축",
+        "body": "카페24 기반 커스텀 자사몰을 기획부터 비주얼 디자인, 퍼블리싱, 도메인 연결까지 구축했습니다.\n“피부 리셋, 황금빛 유전자를 깨우다” — 브랜드의 골드·네이비 무드를 메인과 브랜드 스토리 페이지 전체에 담았습니다."
+      },
+      {
+        "type": "video",
+        "src": "work/w35_web_orgene/v1.mp4"
+      },
+      {
+        "type": "text",
+        "label": "Main page",
+        "title": "자외선 차단은 강력하게,\n피부는 촉촉하게",
+        "body": "풀스크린 히어로와 키워드 마퀴, 방송 노출(ON AIR), 전문가 리뷰, 브랜드 필름 4컷, 데일리 갤러리 순으로\n제품의 신뢰와 무드를 스크롤 흐름에 따라 쌓아가도록 구성했습니다."
+      },
+      {
+        "type": "image",
+        "src": "work/w35_web_orgene/main.jpg",
+        "alt": "ORGENE 메인페이지"
+      },
+      {
+        "type": "text",
+        "theme": "dark",
+        "label": "Brand story",
+        "title": "피부 리셋,\n황금빛 유전자를 깨우다",
+        "body": "We believe · Our Mission · Our Philosophy · Logo Story\n게일어 ÓR(금)과 Gene(유전자)의 의미, 초승달과 별 심볼의 이야기를 하나의 브랜드 스토리로 풀어냈습니다."
+      },
+      {
+        "type": "image",
+        "src": "work/w35_web_orgene/story.jpg",
+        "alt": "ORGENE 브랜드 스토리"
+      }
+    ]
+  },
+  "w36": {
+    "cover": "work/w36_web_saintfran/main.jpg",
+    "images": [
+      {
+        "src": "work/w36_web_saintfran/main.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w36_web_saintfran/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w36_web_saintfran/02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w36_web_saintfran/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w36_web_saintfran/04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w36_web_saintfran/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w36_web_saintfran/06.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w36_web_saintfran/07.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w36_web_saintfran/08.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w36_web_saintfran/09.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w36_web_saintfran/main.jpg",
+        "alt": "세인트프랑 더마스킨 선쉴드"
+      },
+      {
+        "type": "image",
+        "src": "work/w36_web_saintfran/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w36_web_saintfran/02.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w36_web_saintfran/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w36_web_saintfran/04.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w36_web_saintfran/05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w36_web_saintfran/06.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w36_web_saintfran/07.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w36_web_saintfran/08.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w36_web_saintfran/09.jpg",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center 28%"
+  },
+  "w37": {
+    "cover": "work/w37_web_sia-studio/01.png",
+    "images": [
+      {
+        "src": "work/w37_web_sia-studio/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w37_web_sia-studio/02.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w37_web_sia-studio/01.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w37_web_sia-studio/02.png",
+        "alt": ""
+      }
+    ]
+  },
+  "w38": {
+    "cover": "work/w38_web_soone/04a.png",
+    "images": [
+      {
+        "src": "work/w38_web_soone/02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w38_web_soone/03.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w38_web_soone/04a.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w38_web_soone/04a.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w38_web_soone/02.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w38_web_soone/03.png",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center center"
+  },
+  "w39": {
+    "cover": "work/w39_vmd_onnuri-pharmacy/01.jpg",
+    "images": [
+      {
+        "src": "work/w39_vmd_onnuri-pharmacy/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w39_vmd_onnuri-pharmacy/02.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w39_vmd_onnuri-pharmacy/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "grid",
+        "cols": 1,
+        "ratio": "auto",
+        "maxw": "none",
+        "center": false,
+        "label": "Technical drawing — Top · Front view · 제작 데이터",
+        "items": [
+          {
+            "src": "work/w39_vmd_onnuri-pharmacy/02.png",
+            "alt": "진열대 도면"
+          }
+        ],
+        "bg": "#ffffff"
+      }
+    ],
+    "coverPos": "45% 54%"
+  },
+  "w40": {
+    "cover": "work/w40_vmd_bologna/01.png",
+    "images": [
+      {
+        "src": "work/w40_vmd_bologna/01.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "video",
+        "src": "work/w40_vmd_bologna/film.mp4"
+      },
+      {
+        "type": "image",
+        "src": "work/w40_vmd_bologna/01.png",
+        "alt": ""
+      }
+    ],
+    "video": "work/w40_vmd_bologna/film.mp4"
+  },
+  "w41": {
+    "cover": "work/w41_vmd_germany/01.jpg",
+    "images": [
+      {
+        "src": "work/w41_vmd_germany/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w41_vmd_germany/02.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w41_vmd_germany/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w41_vmd_germany/02.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "w42": {
+    "cover": "work/w42_vmd_musinsa/01.jpg",
+    "images": [
+      {
+        "src": "work/w42_vmd_musinsa/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w42_vmd_musinsa/02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w42_vmd_musinsa/03a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w42_vmd_musinsa/03b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w42_vmd_musinsa/04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w42_vmd_musinsa/05a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w42_vmd_musinsa/05b.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w42_vmd_musinsa/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w42_vmd_musinsa/02.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w42_vmd_musinsa/03a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w42_vmd_musinsa/03b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w42_vmd_musinsa/04.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w42_vmd_musinsa/05a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w42_vmd_musinsa/05b.jpg",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  "w43": {
+    "cover": "work/w43_vmd_usa/01.jpg",
+    "images": [
+      {
+        "src": "work/w43_vmd_usa/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w43_vmd_usa/02.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w43_vmd_usa/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w43_vmd_usa/02.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pdf",
+        "src": "work/w43_vmd_usa/drawing.pdf"
+      }
+    ],
+    "coverPos": "46% 47%"
+  },
+  "w44": {
+    "cover": "work/w44_vmd_bclean-popup/01.png",
+    "images": [
+      {
+        "src": "work/w44_vmd_bclean-popup/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w44_vmd_bclean-popup/02.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w44_vmd_bclean-popup/01.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w44_vmd_bclean-popup/02.png",
+        "alt": ""
+      }
+    ]
+  },
+  "w45": {
+    "cover": "work/w45_contents_cla/05.jpg",
+    "video": "work/w45_contents_cla/v01.mp4",
+    "images": [
+      {
+        "src": "work/w45_contents_cla/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w45_contents_cla/03a.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w45_contents_cla/03b.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w45_contents_cla/04.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w45_contents_cla/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w45_contents_cla/06.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w45_contents_cla/07.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w45_contents_cla/i08.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w45_contents_cla/i09.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w45_contents_cla/i10.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w45_contents_cla/i11.jpg",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "text",
+        "label": "AI Contents",
+        "title": "CLA 웹 콘텐츠",
+        "body": "모델·연출 이미지를 AI로 생성하고\n합성·보정해 완성했습니다."
+      },
+      {
+        "type": "grid",
+        "cols": 2,
+        "ratio": "16/9",
+        "label": "Motion · Video — Landscape",
+        "items": [
+          {
+            "src": "work/w45_contents_cla/v01.mp4",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/02.mp4",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/v05.mp4",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/v06.mp4",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 2,
+        "ratio": "2/3",
+        "maxw": "calc(50% - clamp(4px,0.5vw,8px))",
+        "label": "Motion · Video — Portrait",
+        "items": [
+          {
+            "src": "work/w45_contents_cla/v03.mp4",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/v04.mp4",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "label": "Detail page · GIF",
+        "items": [
+          {
+            "src": "work/w45_contents_cla/g02.gif",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/g03.gif",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/g04.gif",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/g05.gif",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/g06.gif",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/g07.gif",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/g08.gif",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "1/1",
+        "label": "Model · Still",
+        "items": [
+          {
+            "src": "work/w45_contents_cla/01.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/03a.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/03b.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/04.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/06.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/07.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/i08.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/i09.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/i10.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w45_contents_cla/i11.jpg",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  "w46": {
+    "cover": "work/w46_contents_eyecrown/01.png",
+    "images": [
+      {
+        "src": "work/w46_contents_eyecrown/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w46_contents_eyecrown/02.gif",
+        "alt": ""
+      },
+      {
+        "src": "work/w46_contents_eyecrown/03.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w46_contents_eyecrown/01.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w46_contents_eyecrown/02.gif",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w46_contents_eyecrown/03.png",
+        "alt": ""
+      }
+    ]
+  },
+  "w47": {
+    "cover": "work/w47_contents_hersteller-web/01.jpg",
+    "images": [
+      {
+        "src": "work/w47_contents_hersteller-web/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w47_contents_hersteller-web/02.gif",
+        "alt": ""
+      },
+      {
+        "src": "work/w47_contents_hersteller-web/03.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w47_contents_hersteller-web/04.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w47_contents_hersteller-web/05.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w47_contents_hersteller-web/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w47_contents_hersteller-web/02.gif",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w47_contents_hersteller-web/03.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w47_contents_hersteller-web/04.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w47_contents_hersteller-web/05.png",
+        "alt": ""
+      }
+    ]
+  },
+  "w48": {
+    "cover": "work/w48_contents_huggle/01.jpg",
+    "video": "work/w48_contents_huggle/02.mp4",
+    "images": [
+      {
+        "src": "work/w48_contents_huggle/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w48_contents_huggle/03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w48_contents_huggle/04a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w48_contents_huggle/04b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w48_contents_huggle/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w48_contents_huggle/06.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w48_contents_huggle/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "video",
+        "src": "work/w48_contents_huggle/02.mp4"
+      },
+      {
+        "type": "image",
+        "src": "work/w48_contents_huggle/03.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w48_contents_huggle/04a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w48_contents_huggle/04b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w48_contents_huggle/05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w48_contents_huggle/06.png",
+        "alt": ""
+      }
+    ]
+  },
+  "w49": {
+    "cover": "work/w49_contents_make-heal/01.jpg",
+    "images": [
+      {
+        "src": "work/w49_contents_make-heal/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w49_contents_make-heal/02.gif",
+        "alt": ""
+      },
+      {
+        "src": "work/w49_contents_make-heal/03.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w49_contents_make-heal/04.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w49_contents_make-heal/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w49_contents_make-heal/02.gif",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w49_contents_make-heal/03.png",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w49_contents_make-heal/04.png",
+        "alt": ""
+      }
+    ]
+  },
+  "w50": {
+    "cover": "work/w50_contents_orgene/01.jpg",
+    "video": "work/w50_contents_orgene/04.mp4",
+    "images": [
+      {
+        "src": "work/w50_contents_orgene/01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w50_contents_orgene/02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w50_contents_orgene/03a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w50_contents_orgene/03b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w50_contents_orgene/05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w50_contents_orgene/06.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w50_contents_orgene/07.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w50_contents_orgene/08.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w50_contents_orgene/01.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w50_contents_orgene/02.jpg",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w50_contents_orgene/03a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w50_contents_orgene/03b.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "work/w50_contents_orgene/04.mp4"
+      },
+      {
+        "type": "image",
+        "src": "work/w50_contents_orgene/05.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w50_contents_orgene/06.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w50_contents_orgene/07.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "work/w50_contents_orgene/08.png",
+        "alt": ""
+      }
+    ],
+    "coverPos": "center center"
+  },
+  "w51": {
+    "cover": "work/w51_contents_soone/01.png",
+    "video": "work/w51_contents_soone/02.mp4",
+    "images": [
+      {
+        "src": "work/w51_contents_soone/01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w51_contents_soone/03a.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w51_contents_soone/03b.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w51_contents_soone/04.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w51_contents_soone/05a.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w51_contents_soone/05b.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w51_contents_soone/06.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w51_contents_soone/07a.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w51_contents_soone/07b.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w51_contents_soone/01.png",
+        "alt": ""
+      },
+      {
+        "type": "video",
+        "src": "work/w51_contents_soone/02.mp4"
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w51_contents_soone/03a.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w51_contents_soone/03b.png",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w51_contents_soone/04.png",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w51_contents_soone/05a.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w51_contents_soone/05b.png",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w51_contents_soone/06.png",
+        "alt": ""
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w51_contents_soone/07a.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w51_contents_soone/07b.png",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  "w52": {
+    "pdf": "work/w52_editorial_orgene-brand-story/orgene-brand-story.pdf",
+    "images": [],
+    "layout": [
+      {
+        "type": "flip",
+        "src": "work/w52_editorial_orgene-brand-story/orgene-brand-story.pdf"
+      },
+      {
+        "type": "pdf",
+        "src": "work/w52_editorial_orgene-brand-story/orgene-brand-story.pdf"
+      }
+    ]
+  },
+  "w53": {
+    "pdf": "work/w53_editorial_eugenius-ir/eugenius-ir-2026.pdf",
+    "images": [],
+    "layout": [
+      {
+        "type": "flip",
+        "src": "work/w53_editorial_eugenius-ir/eugenius-ir-2026.pdf"
+      },
+      {
+        "type": "pdf",
+        "src": "work/w53_editorial_eugenius-ir/eugenius-ir-2026.pdf",
+        "pages": [
+          1,
+          3,
+          6,
+          10,
+          15,
+          22
+        ]
+      }
+    ]
+  },
+  "w54": {
+    "pdf": "work/w54_editorial_eugenius-profile/eugenius-profile.pdf",
+    "images": [],
+    "layout": [
+      {
+        "type": "flip",
+        "src": "work/w54_editorial_eugenius-profile/eugenius-profile.pdf"
+      },
+      {
+        "type": "pdf",
+        "src": "work/w54_editorial_eugenius-profile/eugenius-profile.pdf",
+        "pages": [
+          1,
+          2,
+          4,
+          6,
+          8,
+          12
+        ]
+      }
+    ]
+  },
+  "w55": {
+    "video": "work/w55_contents_motion/02.mp4",
+    "images": [
+      {
+        "src": "work/w55_contents_motion/04a.gif",
+        "alt": ""
+      },
+      {
+        "src": "work/w55_contents_motion/04b.gif",
+        "alt": ""
+      },
+      {
+        "src": "work/w55_contents_motion/05a.gif",
+        "alt": ""
+      },
+      {
+        "src": "work/w55_contents_motion/05b.gif",
+        "alt": ""
+      },
+      {
+        "src": "work/w55_contents_motion/06.gif",
+        "alt": ""
+      }
+    ],
+    "cover": "work/w55_contents_motion/04a.gif",
+    "layout": [
+      {
+        "type": "video",
+        "src": "work/w55_contents_motion/02.mp4"
+      },
+      {
+        "type": "video",
+        "src": "work/w55_contents_motion/03.mp4"
+      },
+      {
+        "type": "video",
+        "src": "work/w05_brand_simbuildo-ci/12.mp4"
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w55_contents_motion/04a.gif",
+            "alt": ""
+          },
+          {
+            "src": "work/w55_contents_motion/04b.gif",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "pair",
+        "items": [
+          {
+            "src": "work/w55_contents_motion/05a.gif",
+            "alt": ""
+          },
+          {
+            "src": "work/w55_contents_motion/05b.gif",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "work/w55_contents_motion/06.gif",
+        "alt": ""
+      }
+    ],
+    "coverVideo": "work/w55_contents_motion/cover.mp4"
+  },
+  "w56": {
+    "cover": "work/w56_contents_rejufine/main.jpg",
+    "coverPos": "center 50%",
+    "images": [
+      {
+        "src": "work/w56_contents_rejufine/main.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w56_contents_rejufine/r01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w56_contents_rejufine/r02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w56_contents_rejufine/r03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w56_contents_rejufine/r04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w56_contents_rejufine/r05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "work/w56_contents_rejufine/r06.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w56_contents_rejufine/r07.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w56_contents_rejufine/r08.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w56_contents_rejufine/main.jpg",
+        "alt": "REJUFINE"
+      },
+      {
+        "type": "grid",
+        "cols": 2,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w56_contents_rejufine/r01.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w56_contents_rejufine/r02.png",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "14/9",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w56_contents_rejufine/r03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w56_contents_rejufine/r04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "work/w56_contents_rejufine/r05.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w56_contents_rejufine/r06.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w56_contents_rejufine/r07.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w56_contents_rejufine/r08.png",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  "w57": {
+    "cover": "work/w57_contents_saintfran/s05.png",
+    "coverPos": "center 50%",
+    "images": [
+      {
+        "src": "work/w57_contents_saintfran/s01.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s02.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s03.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s04.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s05.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s06.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s07.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s08.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s09.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s10.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s11.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s12.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s13.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s14.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s15.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s16.png",
+        "alt": ""
+      },
+      {
+        "src": "work/w57_contents_saintfran/s17.png",
+        "alt": ""
+      }
+    ],
+    "layout": [
+      {
+        "type": "image",
+        "src": "work/w57_contents_saintfran/s05.png",
+        "alt": "세인트프랑"
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w57_contents_saintfran/s02.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w57_contents_saintfran/s03.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w57_contents_saintfran/s04.png",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w57_contents_saintfran/s01.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w57_contents_saintfran/s06.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w57_contents_saintfran/s07.png",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w57_contents_saintfran/s08.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w57_contents_saintfran/s09.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w57_contents_saintfran/s10.png",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 3,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w57_contents_saintfran/s11.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w57_contents_saintfran/s12.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w57_contents_saintfran/s13.png",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 2,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w57_contents_saintfran/s14.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w57_contents_saintfran/s15.png",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "cols": 2,
+        "ratio": "auto",
+        "bg": "#ffffff",
+        "items": [
+          {
+            "src": "work/w57_contents_saintfran/s16.png",
+            "alt": ""
+          },
+          {
+            "src": "work/w57_contents_saintfran/s17.png",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  }
+}
