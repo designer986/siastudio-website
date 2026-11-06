@@ -85,10 +85,10 @@
     ]
   },
   "w02": {
-    "cover": "work/w02_brand_agia-edu-ci/01.png",
+    "cover": "work/w02_brand_agia-edu-ci/01.webp",
     "images": [
       {
-        "src": "work/w02_brand_agia-edu-ci/01.png",
+        "src": "work/w02_brand_agia-edu-ci/01.webp",
         "alt": ""
       },
       {
@@ -96,14 +96,14 @@
         "alt": ""
       },
       {
-        "src": "work/w02_brand_agia-edu-ci/03.png",
+        "src": "work/w02_brand_agia-edu-ci/03.webp",
         "alt": ""
       }
     ],
     "layout": [
       {
         "type": "image",
-        "src": "work/w02_brand_agia-edu-ci/01.png",
+        "src": "work/w02_brand_agia-edu-ci/01.webp",
         "alt": "AGIA EDU 명함 목업"
       },
       {
@@ -113,7 +113,7 @@
       },
       {
         "type": "image",
-        "src": "work/w02_brand_agia-edu-ci/03.png",
+        "src": "work/w02_brand_agia-edu-ci/03.webp",
         "alt": "AGIA EDU 명함 스택 목업"
       }
     ]
@@ -143,7 +143,7 @@
     "cover": "work/w04_brand_tsome-bi/cover.png",
     "images": [
       {
-        "src": "work/w04_brand_tsome-bi/01.png",
+        "src": "work/w04_brand_tsome-bi/01.webp",
         "alt": ""
       },
       {
@@ -163,7 +163,7 @@
       },
       {
         "type": "image",
-        "src": "work/w04_brand_tsome-bi/01.png",
+        "src": "work/w04_brand_tsome-bi/01.webp",
         "alt": ""
       },
       {
@@ -408,7 +408,7 @@
     ]
   },
   "w09": {
-    "cover": "work/w09_brand_tutu-bear-bi/cover.png",
+    "cover": "work/w09_brand_tutu-bear-bi/cover.webp",
     "images": [
       {
         "src": "work/w09_brand_tutu-bear-bi/02.jpg",
@@ -418,7 +418,7 @@
     "layout": [
       {
         "type": "image",
-        "src": "work/w09_brand_tutu-bear-bi/cover.png",
+        "src": "work/w09_brand_tutu-bear-bi/cover.webp",
         "alt": "TUTU BEAR"
       },
       {
@@ -440,7 +440,7 @@
         "alt": ""
       },
       {
-        "src": "work/w10_brand_grico-bi/03.png",
+        "src": "work/w10_brand_grico-bi/03.webp",
         "alt": ""
       }
     ],
@@ -462,90 +462,90 @@
       },
       {
         "type": "image",
-        "src": "work/w10_brand_grico-bi/03.png",
+        "src": "work/w10_brand_grico-bi/03.webp",
         "alt": ""
       }
     ],
     "coverPos": "30% 50%"
   },
   "w11": {
-    "cover": "work/w11_package_ildo-hwangjin/01.png",
+    "cover": "work/w11_package_ildo-hwangjin/01.webp",
     "images": [
       {
-        "src": "work/w11_package_ildo-hwangjin/01.png",
+        "src": "work/w11_package_ildo-hwangjin/01.webp",
         "alt": ""
       },
       {
-        "src": "work/w11_package_ildo-hwangjin/02.png",
+        "src": "work/w11_package_ildo-hwangjin/02.webp",
         "alt": ""
       },
       {
-        "src": "work/w11_package_ildo-hwangjin/03a.png",
+        "src": "work/w11_package_ildo-hwangjin/03a.webp",
         "alt": ""
       },
       {
-        "src": "work/w11_package_ildo-hwangjin/03b.png",
+        "src": "work/w11_package_ildo-hwangjin/03b.webp",
         "alt": ""
       },
       {
-        "src": "work/w11_package_ildo-hwangjin/04.png",
+        "src": "work/w11_package_ildo-hwangjin/04.webp",
         "alt": ""
       },
       {
-        "src": "work/w11_package_ildo-hwangjin/05.png",
+        "src": "work/w11_package_ildo-hwangjin/05.webp",
         "alt": ""
       },
       {
-        "src": "work/w11_package_ildo-hwangjin/06.png",
+        "src": "work/w11_package_ildo-hwangjin/06.webp",
         "alt": ""
       },
       {
-        "src": "work/w11_package_ildo-hwangjin/07.png",
+        "src": "work/w11_package_ildo-hwangjin/07.webp",
         "alt": ""
       }
     ],
     "layout": [
       {
         "type": "image",
-        "src": "work/w11_package_ildo-hwangjin/01.png",
+        "src": "work/w11_package_ildo-hwangjin/01.webp",
         "alt": ""
       },
       {
         "type": "image",
-        "src": "work/w11_package_ildo-hwangjin/02.png",
+        "src": "work/w11_package_ildo-hwangjin/02.webp",
         "alt": ""
       },
       {
         "type": "pair",
         "items": [
           {
-            "src": "work/w11_package_ildo-hwangjin/03a.png",
+            "src": "work/w11_package_ildo-hwangjin/03a.webp",
             "alt": ""
           },
           {
-            "src": "work/w11_package_ildo-hwangjin/03b.png",
+            "src": "work/w11_package_ildo-hwangjin/03b.webp",
             "alt": ""
           }
         ]
       },
       {
         "type": "image",
-        "src": "work/w11_package_ildo-hwangjin/04.png",
+        "src": "work/w11_package_ildo-hwangjin/04.webp",
         "alt": ""
       },
       {
         "type": "image",
-        "src": "work/w11_package_ildo-hwangjin/05.png",
+        "src": "work/w11_package_ildo-hwangjin/05.webp",
         "alt": ""
       },
       {
         "type": "image",
-        "src": "work/w11_package_ildo-hwangjin/06.png",
+        "src": "work/w11_package_ildo-hwangjin/06.webp",
         "alt": ""
       },
       {
         "type": "image",
-        "src": "work/w11_package_ildo-hwangjin/07.png",
+        "src": "work/w11_package_ildo-hwangjin/07.webp",
         "alt": ""
       }
     ]
@@ -558,7 +558,7 @@
         "alt": ""
       },
       {
-        "src": "work/w12_package_eyecrown-makeup/01.png",
+        "src": "work/w12_package_eyecrown-makeup/01.webp",
         "alt": ""
       }
     ],
@@ -570,7 +570,7 @@
       },
       {
         "type": "image",
-        "src": "work/w12_package_eyecrown-makeup/01.png",
+        "src": "work/w12_package_eyecrown-makeup/01.webp",
         "alt": ""
       }
     ],
@@ -1191,7 +1191,7 @@
         "alt": ""
       },
       {
-        "src": "work/w21_package_wonder-veggie-essence/02.png",
+        "src": "work/w21_package_wonder-veggie-essence/02.webp",
         "alt": ""
       },
       {
@@ -1219,7 +1219,7 @@
       },
       {
         "type": "image",
-        "src": "work/w21_package_wonder-veggie-essence/02.png",
+        "src": "work/w21_package_wonder-veggie-essence/02.webp",
         "alt": ""
       },
       {
@@ -1255,7 +1255,7 @@
         "alt": ""
       },
       {
-        "src": "work/w22_package_wonder-veggie-gel-cream/02.png",
+        "src": "work/w22_package_wonder-veggie-gel-cream/02.webp",
         "alt": ""
       },
       {
@@ -1279,7 +1279,7 @@
       },
       {
         "type": "image",
-        "src": "work/w22_package_wonder-veggie-gel-cream/02.png",
+        "src": "work/w22_package_wonder-veggie-gel-cream/02.webp",
         "alt": ""
       },
       {
@@ -1377,44 +1377,44 @@
     ]
   },
   "w24": {
-    "cover": "work/w24_package_lipleasure-lip/main.png",
+    "cover": "work/w24_package_lipleasure-lip/main.webp",
     "images": [
       {
-        "src": "work/w24_package_lipleasure-lip/main.png",
+        "src": "work/w24_package_lipleasure-lip/main.webp",
         "alt": ""
       },
       {
-        "src": "work/w24_package_lipleasure-lip/01.png",
+        "src": "work/w24_package_lipleasure-lip/01.webp",
         "alt": ""
       },
       {
-        "src": "work/w24_package_lipleasure-lip/02.png",
+        "src": "work/w24_package_lipleasure-lip/02.webp",
         "alt": ""
       },
       {
-        "src": "work/w24_package_lipleasure-lip/03.png",
+        "src": "work/w24_package_lipleasure-lip/03.webp",
         "alt": ""
       }
     ],
     "layout": [
       {
         "type": "image",
-        "src": "work/w24_package_lipleasure-lip/main.png",
+        "src": "work/w24_package_lipleasure-lip/main.webp",
         "alt": ""
       },
       {
         "type": "image",
-        "src": "work/w24_package_lipleasure-lip/01.png",
+        "src": "work/w24_package_lipleasure-lip/01.webp",
         "alt": ""
       },
       {
         "type": "image",
-        "src": "work/w24_package_lipleasure-lip/02.png",
+        "src": "work/w24_package_lipleasure-lip/02.webp",
         "alt": ""
       },
       {
         "type": "image",
-        "src": "work/w24_package_lipleasure-lip/03.png",
+        "src": "work/w24_package_lipleasure-lip/03.webp",
         "alt": ""
       }
     ],
@@ -1428,7 +1428,7 @@
         "alt": ""
       },
       {
-        "src": "work/w25_package_meiroad-makeup/01.png",
+        "src": "work/w25_package_meiroad-makeup/01.webp",
         "alt": ""
       }
     ],
@@ -1440,7 +1440,7 @@
       },
       {
         "type": "image",
-        "src": "work/w25_package_meiroad-makeup/01.png",
+        "src": "work/w25_package_meiroad-makeup/01.webp",
         "alt": ""
       }
     ],
@@ -1579,7 +1579,7 @@
         "alt": ""
       },
       {
-        "src": "work/w27_package_tsome-makeup/01.png",
+        "src": "work/w27_package_tsome-makeup/01.webp",
         "alt": ""
       }
     ],
@@ -1591,7 +1591,7 @@
       },
       {
         "type": "image",
-        "src": "work/w27_package_tsome-makeup/01.png",
+        "src": "work/w27_package_tsome-makeup/01.webp",
         "alt": ""
       }
     ],
@@ -1888,10 +1888,10 @@
     ]
   },
   "w33": {
-    "cover": "work/w33_web_logbe/01.png",
+    "cover": "work/w33_web_logbe/01.webp",
     "images": [
       {
-        "src": "work/w33_web_logbe/01.png",
+        "src": "work/w33_web_logbe/01.webp",
         "alt": ""
       },
       {
@@ -1899,15 +1899,15 @@
         "alt": ""
       },
       {
-        "src": "work/w33_web_logbe/03.png",
+        "src": "work/w33_web_logbe/03.webp",
         "alt": ""
       },
       {
-        "src": "work/w33_web_logbe/04.png",
+        "src": "work/w33_web_logbe/04.webp",
         "alt": ""
       },
       {
-        "src": "work/w33_web_logbe/05.png",
+        "src": "work/w33_web_logbe/05.webp",
         "alt": ""
       },
       {
@@ -1922,7 +1922,7 @@
     "layout": [
       {
         "type": "image",
-        "src": "work/w33_web_logbe/01.png",
+        "src": "work/w33_web_logbe/01.webp",
         "alt": ""
       },
       {
@@ -1932,17 +1932,17 @@
       },
       {
         "type": "image",
-        "src": "work/w33_web_logbe/03.png",
+        "src": "work/w33_web_logbe/03.webp",
         "alt": ""
       },
       {
         "type": "image",
-        "src": "work/w33_web_logbe/04.png",
+        "src": "work/w33_web_logbe/04.webp",
         "alt": ""
       },
       {
         "type": "image",
-        "src": "work/w33_web_logbe/05.png",
+        "src": "work/w33_web_logbe/05.webp",
         "alt": ""
       },
       {
@@ -2205,50 +2205,50 @@
     "coverPos": "center 28%"
   },
   "w37": {
-    "cover": "work/w37_web_sia-studio/01.png",
+    "cover": "work/w37_web_sia-studio/01.webp",
     "images": [
       {
-        "src": "work/w37_web_sia-studio/01.png",
+        "src": "work/w37_web_sia-studio/01.webp",
         "alt": ""
       },
       {
-        "src": "work/w37_web_sia-studio/02.png",
+        "src": "work/w37_web_sia-studio/02.webp",
         "alt": ""
       }
     ],
     "layout": [
       {
         "type": "image",
-        "src": "work/w37_web_sia-studio/01.png",
+        "src": "work/w37_web_sia-studio/01.webp",
         "alt": ""
       },
       {
         "type": "image",
-        "src": "work/w37_web_sia-studio/02.png",
+        "src": "work/w37_web_sia-studio/02.webp",
         "alt": ""
       }
     ]
   },
   "w38": {
-    "cover": "work/w38_web_soone/04a.png",
+    "cover": "work/w38_web_soone/04a.webp",
     "images": [
       {
         "src": "work/w38_web_soone/02.jpg",
         "alt": ""
       },
       {
-        "src": "work/w38_web_soone/03.png",
+        "src": "work/w38_web_soone/03.webp",
         "alt": ""
       },
       {
-        "src": "work/w38_web_soone/04a.png",
+        "src": "work/w38_web_soone/04a.webp",
         "alt": ""
       }
     ],
     "layout": [
       {
         "type": "image",
-        "src": "work/w38_web_soone/04a.png",
+        "src": "work/w38_web_soone/04a.webp",
         "alt": ""
       },
       {
@@ -2258,7 +2258,7 @@
       },
       {
         "type": "image",
-        "src": "work/w38_web_soone/03.png",
+        "src": "work/w38_web_soone/03.webp",
         "alt": ""
       }
     ],
@@ -2301,10 +2301,10 @@
     "coverPos": "45% 54%"
   },
   "w40": {
-    "cover": "work/w40_vmd_bologna/01.png",
+    "cover": "work/w40_vmd_bologna/01.webp",
     "images": [
       {
-        "src": "work/w40_vmd_bologna/01.png",
+        "src": "work/w40_vmd_bologna/01.webp",
         "alt": ""
       }
     ],
@@ -2315,7 +2315,7 @@
       },
       {
         "type": "image",
-        "src": "work/w40_vmd_bologna/01.png",
+        "src": "work/w40_vmd_bologna/01.webp",
         "alt": ""
       }
     ],
@@ -2482,11 +2482,11 @@
     "video": "work/w45_contents_cla/v01.mp4",
     "images": [
       {
-        "src": "work/w45_contents_cla/01.png",
+        "src": "work/w45_contents_cla/01.webp",
         "alt": ""
       },
       {
-        "src": "work/w45_contents_cla/03a.png",
+        "src": "work/w45_contents_cla/03a.webp",
         "alt": ""
       },
       {
@@ -2494,7 +2494,7 @@
         "alt": ""
       },
       {
-        "src": "work/w45_contents_cla/04.png",
+        "src": "work/w45_contents_cla/04.webp",
         "alt": ""
       },
       {
@@ -2502,11 +2502,11 @@
         "alt": ""
       },
       {
-        "src": "work/w45_contents_cla/06.png",
+        "src": "work/w45_contents_cla/06.webp",
         "alt": ""
       },
       {
-        "src": "work/w45_contents_cla/07.png",
+        "src": "work/w45_contents_cla/07.webp",
         "alt": ""
       },
       {
@@ -2616,11 +2616,11 @@
         "label": "Model · Still",
         "items": [
           {
-            "src": "work/w45_contents_cla/01.png",
+            "src": "work/w45_contents_cla/01.webp",
             "alt": ""
           },
           {
-            "src": "work/w45_contents_cla/03a.png",
+            "src": "work/w45_contents_cla/03a.webp",
             "alt": ""
           },
           {
@@ -2628,7 +2628,7 @@
             "alt": ""
           },
           {
-            "src": "work/w45_contents_cla/04.png",
+            "src": "work/w45_contents_cla/04.webp",
             "alt": ""
           },
           {
@@ -2636,11 +2636,11 @@
             "alt": ""
           },
           {
-            "src": "work/w45_contents_cla/06.png",
+            "src": "work/w45_contents_cla/06.webp",
             "alt": ""
           },
           {
-            "src": "work/w45_contents_cla/07.png",
+            "src": "work/w45_contents_cla/07.webp",
             "alt": ""
           },
           {
@@ -2664,10 +2664,10 @@
     ]
   },
   "w46": {
-    "cover": "work/w46_contents_eyecrown/01.png",
+    "cover": "work/w46_contents_eyecrown/01.webp",
     "images": [
       {
-        "src": "work/w46_contents_eyecrown/01.png",
+        "src": "work/w46_contents_eyecrown/01.webp",
         "alt": ""
       },
       {
@@ -2675,14 +2675,14 @@
         "alt": ""
       },
       {
-        "src": "work/w46_contents_eyecrown/03.png",
+        "src": "work/w46_contents_eyecrown/03.webp",
         "alt": ""
       }
     ],
     "layout": [
       {
         "type": "image",
-        "src": "work/w46_contents_eyecrown/01.png",
+        "src": "work/w46_contents_eyecrown/01.webp",
         "alt": ""
       },
       {
@@ -2692,7 +2692,7 @@
       },
       {
         "type": "image",
-        "src": "work/w46_contents_eyecrown/03.png",
+        "src": "work/w46_contents_eyecrown/03.webp",
         "alt": ""
       }
     ]
@@ -2978,15 +2978,15 @@
         "alt": ""
       },
       {
-        "src": "work/w51_contents_soone/06.png",
+        "src": "work/w51_contents_soone/06.webp",
         "alt": ""
       },
       {
-        "src": "work/w51_contents_soone/07a.png",
+        "src": "work/w51_contents_soone/07a.webp",
         "alt": ""
       },
       {
-        "src": "work/w51_contents_soone/07b.png",
+        "src": "work/w51_contents_soone/07b.webp",
         "alt": ""
       }
     ],
@@ -3033,18 +3033,18 @@
       },
       {
         "type": "image",
-        "src": "work/w51_contents_soone/06.png",
+        "src": "work/w51_contents_soone/06.webp",
         "alt": ""
       },
       {
         "type": "pair",
         "items": [
           {
-            "src": "work/w51_contents_soone/07a.png",
+            "src": "work/w51_contents_soone/07a.webp",
             "alt": ""
           },
           {
-            "src": "work/w51_contents_soone/07b.png",
+            "src": "work/w51_contents_soone/07b.webp",
             "alt": ""
           }
         ]
@@ -3052,6 +3052,7 @@
     ]
   },
   "w52": {
+    "cover": "work/w52_editorial_orgene-brand-story/pdf-cover.jpg",
     "pdf": "work/w52_editorial_orgene-brand-story/orgene-brand-story.pdf",
     "images": [],
     "layout": [
@@ -3066,6 +3067,7 @@
     ]
   },
   "w53": {
+    "cover": "work/w53_editorial_eugenius-ir/pdf-cover.jpg",
     "pdf": "work/w53_editorial_eugenius-ir/eugenius-ir-2026.pdf",
     "images": [],
     "layout": [
@@ -3088,6 +3090,7 @@
     ]
   },
   "w54": {
+    "cover": "work/w54_editorial_eugenius-profile/pdf-cover.jpg",
     "pdf": "work/w54_editorial_eugenius-profile/eugenius-profile.pdf",
     "images": [],
     "layout": [
@@ -3190,11 +3193,11 @@
         "alt": ""
       },
       {
-        "src": "work/w56_contents_rejufine/r01.png",
+        "src": "work/w56_contents_rejufine/r01.webp",
         "alt": ""
       },
       {
-        "src": "work/w56_contents_rejufine/r02.png",
+        "src": "work/w56_contents_rejufine/r02.webp",
         "alt": ""
       },
       {
@@ -3210,15 +3213,15 @@
         "alt": ""
       },
       {
-        "src": "work/w56_contents_rejufine/r06.png",
+        "src": "work/w56_contents_rejufine/r06.webp",
         "alt": ""
       },
       {
-        "src": "work/w56_contents_rejufine/r07.png",
+        "src": "work/w56_contents_rejufine/r07.webp",
         "alt": ""
       },
       {
-        "src": "work/w56_contents_rejufine/r08.png",
+        "src": "work/w56_contents_rejufine/r08.webp",
         "alt": ""
       }
     ],
@@ -3235,11 +3238,11 @@
         "bg": "#ffffff",
         "items": [
           {
-            "src": "work/w56_contents_rejufine/r01.png",
+            "src": "work/w56_contents_rejufine/r01.webp",
             "alt": ""
           },
           {
-            "src": "work/w56_contents_rejufine/r02.png",
+            "src": "work/w56_contents_rejufine/r02.webp",
             "alt": ""
           }
         ]
@@ -3271,15 +3274,15 @@
         "bg": "#ffffff",
         "items": [
           {
-            "src": "work/w56_contents_rejufine/r06.png",
+            "src": "work/w56_contents_rejufine/r06.webp",
             "alt": ""
           },
           {
-            "src": "work/w56_contents_rejufine/r07.png",
+            "src": "work/w56_contents_rejufine/r07.webp",
             "alt": ""
           },
           {
-            "src": "work/w56_contents_rejufine/r08.png",
+            "src": "work/w56_contents_rejufine/r08.webp",
             "alt": ""
           }
         ]
@@ -3287,82 +3290,82 @@
     ]
   },
   "w57": {
-    "cover": "work/w57_contents_saintfran/s05.png",
+    "cover": "work/w57_contents_saintfran/s05.webp",
     "coverPos": "center 50%",
     "images": [
       {
-        "src": "work/w57_contents_saintfran/s01.png",
+        "src": "work/w57_contents_saintfran/s01.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s02.png",
+        "src": "work/w57_contents_saintfran/s02.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s03.png",
+        "src": "work/w57_contents_saintfran/s03.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s04.png",
+        "src": "work/w57_contents_saintfran/s04.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s05.png",
+        "src": "work/w57_contents_saintfran/s05.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s06.png",
+        "src": "work/w57_contents_saintfran/s06.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s07.png",
+        "src": "work/w57_contents_saintfran/s07.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s08.png",
+        "src": "work/w57_contents_saintfran/s08.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s09.png",
+        "src": "work/w57_contents_saintfran/s09.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s10.png",
+        "src": "work/w57_contents_saintfran/s10.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s11.png",
+        "src": "work/w57_contents_saintfran/s11.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s12.png",
+        "src": "work/w57_contents_saintfran/s12.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s13.png",
+        "src": "work/w57_contents_saintfran/s13.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s14.png",
+        "src": "work/w57_contents_saintfran/s14.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s15.png",
+        "src": "work/w57_contents_saintfran/s15.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s16.png",
+        "src": "work/w57_contents_saintfran/s16.webp",
         "alt": ""
       },
       {
-        "src": "work/w57_contents_saintfran/s17.png",
+        "src": "work/w57_contents_saintfran/s17.webp",
         "alt": ""
       }
     ],
     "layout": [
       {
         "type": "image",
-        "src": "work/w57_contents_saintfran/s05.png",
+        "src": "work/w57_contents_saintfran/s05.webp",
         "alt": "세인트프랑"
       },
       {
@@ -3372,15 +3375,15 @@
         "bg": "#ffffff",
         "items": [
           {
-            "src": "work/w57_contents_saintfran/s02.png",
+            "src": "work/w57_contents_saintfran/s02.webp",
             "alt": ""
           },
           {
-            "src": "work/w57_contents_saintfran/s03.png",
+            "src": "work/w57_contents_saintfran/s03.webp",
             "alt": ""
           },
           {
-            "src": "work/w57_contents_saintfran/s04.png",
+            "src": "work/w57_contents_saintfran/s04.webp",
             "alt": ""
           }
         ]
@@ -3392,15 +3395,15 @@
         "bg": "#ffffff",
         "items": [
           {
-            "src": "work/w57_contents_saintfran/s01.png",
+            "src": "work/w57_contents_saintfran/s01.webp",
             "alt": ""
           },
           {
-            "src": "work/w57_contents_saintfran/s06.png",
+            "src": "work/w57_contents_saintfran/s06.webp",
             "alt": ""
           },
           {
-            "src": "work/w57_contents_saintfran/s07.png",
+            "src": "work/w57_contents_saintfran/s07.webp",
             "alt": ""
           }
         ]
@@ -3412,15 +3415,15 @@
         "bg": "#ffffff",
         "items": [
           {
-            "src": "work/w57_contents_saintfran/s08.png",
+            "src": "work/w57_contents_saintfran/s08.webp",
             "alt": ""
           },
           {
-            "src": "work/w57_contents_saintfran/s09.png",
+            "src": "work/w57_contents_saintfran/s09.webp",
             "alt": ""
           },
           {
-            "src": "work/w57_contents_saintfran/s10.png",
+            "src": "work/w57_contents_saintfran/s10.webp",
             "alt": ""
           }
         ]
@@ -3432,15 +3435,15 @@
         "bg": "#ffffff",
         "items": [
           {
-            "src": "work/w57_contents_saintfran/s11.png",
+            "src": "work/w57_contents_saintfran/s11.webp",
             "alt": ""
           },
           {
-            "src": "work/w57_contents_saintfran/s12.png",
+            "src": "work/w57_contents_saintfran/s12.webp",
             "alt": ""
           },
           {
-            "src": "work/w57_contents_saintfran/s13.png",
+            "src": "work/w57_contents_saintfran/s13.webp",
             "alt": ""
           }
         ]
@@ -3452,11 +3455,11 @@
         "bg": "#ffffff",
         "items": [
           {
-            "src": "work/w57_contents_saintfran/s14.png",
+            "src": "work/w57_contents_saintfran/s14.webp",
             "alt": ""
           },
           {
-            "src": "work/w57_contents_saintfran/s15.png",
+            "src": "work/w57_contents_saintfran/s15.webp",
             "alt": ""
           }
         ]
@@ -3468,11 +3471,11 @@
         "bg": "#ffffff",
         "items": [
           {
-            "src": "work/w57_contents_saintfran/s16.png",
+            "src": "work/w57_contents_saintfran/s16.webp",
             "alt": ""
           },
           {
-            "src": "work/w57_contents_saintfran/s17.png",
+            "src": "work/w57_contents_saintfran/s17.webp",
             "alt": ""
           }
         ]
